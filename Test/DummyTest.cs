@@ -8,9 +8,8 @@ public class DummyTest
     public void IsDummyTest()
     {
         var dummyService = new DummyService();
-        var expected = "dummytext";
-        var actual = dummyService.IsDummy(expected);
+        var result = dummyService.IsDummy("dummytext");
 
-        Assert.True(actual, expected + " should be 'dummytext'");
+        Assert.True(result);
     }
 }
