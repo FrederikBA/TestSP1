@@ -31,7 +31,7 @@ Study points assignment 1 for the test course
     11. Spyt tandpastaen ud.
     12. Skyl din mund med vand.
     13. Skyl din tandbørste under rindende vand.
-    14. Opbevar tandbørsten i lodret position for at lade den tørre.
+    14. Læg tandbørsten fra dig
 
 # 3 GIVE YOUR THOUGHTS ON TDD
 ### What was positive and good about using TDD?
