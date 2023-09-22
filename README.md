@@ -18,6 +18,11 @@ Study points assignment 1 for the test course
 
 ### To teach an alien how to brush its teeth, follow these steps:
 
+    1. Bemærk om denne Alien har tænder, hvis ja så step 2:
+        - Hvis nej så har denne Alien ikke brug for at børste tænder
+    2. Bemærk om denne Alien har hænder hvis ja så fortsæt med nedenstående:
+        - Hvis nej så giv op.
+
     1. Stå foran en håndvask eller en vask.
     2. Tag en tandbørste i din dominerende hånd.
     3. Med din anden hånd åbner du en tube tandpasta.
